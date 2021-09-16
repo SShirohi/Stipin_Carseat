@@ -22,7 +22,7 @@ this is not much expensive but easily affortable aand can me easily changable or
 |-------|---------|----------------|
 | `99006272` | Shivam Shirohi | carseat |
 
-# codeinspector bacdges
+# codeinspector badges
 
 (https://frontend.code-inspector.com/public/project/28858/Stipin_Carseat/dashboard)
 https://www.code-inspector.com/project/28858/score/svg
