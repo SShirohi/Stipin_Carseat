@@ -10,4 +10,4 @@
 |TEST_06  | LCD Display | Inputed| Displayed correctly| PASS  |
 | TEST_07  | Potentiometer  | Temp=0| heater=Off | PASS  |
 | TEST_08  | Potentiometer | Temp=20| heater=20 degree generation | PASS  |
-| TESTD_09  | Potentiometer  | Temp=33| heater=30 degree generation | FAIL |
+| TEST_09  | Potentiometer  | Temp=33| heater=30 degree generation | FAIL |
