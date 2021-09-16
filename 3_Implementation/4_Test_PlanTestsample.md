@@ -1,4 +1,4 @@
-# Test Plans
+# Test Samples
 
 | ID | Description  | I/P  | O/P  | Status |
 |---|---|---|---|---|
