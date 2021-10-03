@@ -50,9 +50,8 @@ can be innovate in future by providing different modes and with moderators and e
 ### High Level Requirements
 |ID| Requirements      | Description |Status|
 | ----------- | ----------- |--------|------|
-
 | HLR1   | Temperature Sensor|  Technical| Implemented|
-| HLR2      | Microcontroller   | Equipment| Implemented|
+| HLR2     | Microcontroller   | Equipment| Implemented|
 | HLR3   | Software used| Software based| Implemented|
 | HLR4  | Heat Generation|Equipment | Implemented|
 | HLR5   | Display| Equipment| Implemented|
